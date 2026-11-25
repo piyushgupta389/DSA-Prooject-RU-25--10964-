@@ -1,0 +1,5 @@
+P105|Mouse|ShopC|799
+P104|Earbuds|ShopB|1299
+P103|Earbuds|ShopA|1499
+P102|Keyboard|Amazon|14999
+P101|Keyboard|Croma|15000
